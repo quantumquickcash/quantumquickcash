@@ -1,0 +1,4 @@
+baseURL = "https://quantumquickcash.com/"
+languageCode = "en-us"
+title = "Quantum Quick Cash"
+theme = "dimension"
